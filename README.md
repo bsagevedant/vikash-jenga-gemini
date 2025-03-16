@@ -96,4 +96,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 - GitHub: [bsagevedant](https://github.com/bsagevedant)
+- x:  [dev](https://x.com/sagevedant)
+- insta :  [dev](https://instagram.com/sagevedant)
 ```
