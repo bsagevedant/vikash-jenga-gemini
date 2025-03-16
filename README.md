@@ -88,5 +88,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - GitHub: [bsagevedant](https://github.com/bsagevedant)
 ```
-
-You can copy this content and create a new `README.md` file in your repository.
