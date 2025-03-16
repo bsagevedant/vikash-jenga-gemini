@@ -2,6 +2,9 @@
 
 Upload a photo of your Jenga structure to analyze its stability.
 
+<img width="1582" alt="Screenshot 2025-03-16 at 7 21 36 PM" src="https://github.com/user-attachments/assets/e6adba12-b4a2-4fcd-9531-a6a91a959e86" />
+
+
 ## Table of Contents
 - [Vikash Jenga Gemini](#vikash-jenga-gemini)
   - [Table of Contents](#table-of-contents)
