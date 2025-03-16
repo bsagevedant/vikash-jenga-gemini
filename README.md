@@ -1,6 +1,3 @@
-It seems there is no existing `README.md` file in the repository `bsagevedant/vikash-jenga-gemini`. Let's create a new detailed README file for your project.
-
-```markdown
 # Vikash Jenga Gemini
 
 Upload a photo of your Jenga structure to analyze its stability.
@@ -45,7 +42,6 @@ Include a link to a live demo or a screenshot of the project.
 1. Clone the repository:
    ```sh
    git clone https://github.com/bsagevedant/vikash-jenga-gemini.git
-   ```
 2. Navigate to the project directory:
    ```sh
    cd vikash-jenga-gemini
