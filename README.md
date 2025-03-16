@@ -2,7 +2,13 @@
 
 Upload a photo of your Jenga structure to analyze its stability.
 
+<img width="1582" alt="Screenshot 2025-01-31 at 7 52 12 AM" src="https://github.com/user-attachments/assets/fc0b0914-3922-4253-894a-87cc99d22b35" />
+
+
 <img width="1582" alt="Screenshot 2025-03-16 at 7 21 36 PM" src="https://github.com/user-attachments/assets/e6adba12-b4a2-4fcd-9531-a6a91a959e86" />
+
+<img width="1582" alt="Screenshot 2025-01-30 at 12 03 06 PM" src="https://github.com/user-attachments/assets/e6fc41ac-9fb7-407e-adf3-9f9e380f64bf" />
+
 
 
 ## Table of Contents
